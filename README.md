@@ -1,0 +1,1 @@
+# how_azfunc_net5_custom_bindings
