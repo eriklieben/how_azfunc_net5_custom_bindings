@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyLib", "DummyLib\DummyLib.csproj", "{4CF46298-BCF0-45A4-9C55-0B47A96CA308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzFunc3DotnetCore", "AzFunc3DotnetCore\AzFunc3DotnetCore.csproj", "{FE115FB1-A6B6-4E60-B5DC-61367A285DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF46298-BCF0-45A4-9C55-0B47A96CA308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF46298-BCF0-45A4-9C55-0B47A96CA308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF46298-BCF0-45A4-9C55-0B47A96CA308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF46298-BCF0-45A4-9C55-0B47A96CA308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE115FB1-A6B6-4E60-B5DC-61367A285DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE115FB1-A6B6-4E60-B5DC-61367A285DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE115FB1-A6B6-4E60-B5DC-61367A285DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE115FB1-A6B6-4E60-B5DC-61367A285DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C21293-17A0-4B3D-8487-D9491ECEB234}
+	EndGlobalSection
+EndGlobal

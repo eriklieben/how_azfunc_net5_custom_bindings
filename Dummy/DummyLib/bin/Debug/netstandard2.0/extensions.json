@@ -1,0 +1,5 @@
+{
+  "extensions":[
+    { "name": "Startup", "typeName":"DummyLib.Startup, DummyLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+  ]
+}
